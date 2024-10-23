@@ -1,6 +1,6 @@
 *This is a repo where you can find a docker compose to build and run a service to mange a tickets system.
 
-*Para este servicio se utiliza una base de datos  con la siguiente estructura:
+*Para este servicio se utiliza una base de datos (sqlite) con la siguiente estructura:
 
 ![db_structure](https://github.com/user-attachments/assets/d34515d4-67b1-4981-a46f-1d6650fb2e26)
 
